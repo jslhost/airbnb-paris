@@ -1,2 +1,2 @@
 # mywork
-Mes différents travaux
+Page répertoriant mes différents projets et travaux 
